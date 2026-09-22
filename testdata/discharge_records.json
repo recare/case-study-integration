@@ -1,0 +1,57 @@
+[
+  {
+    "PatientID": "H-10293",
+    "PatientName": "Anna Musterfrau",
+    "DOB": "1957-03-14",
+    "InsuranceNr": "DE-AOK-88214477",
+    "DischargeDate": "2026-09-18",
+    "Diagnosis": "I50.9",
+    "WeightKg": 68.5,
+    "WeightLbs": 0,
+    "Notes": "Routine discharge, no complications."
+  },
+  {
+    "PatientID": "H-10294",
+    "PatientName": "Klaus Beispiel",
+    "DOB": "1942-11-02",
+    "InsuranceNr": "DE-TK-55021198",
+    "DischargeDate": "2026-09-18",
+    "Diagnosis": "I50.9, E11.9, N18.3",
+    "WeightKg": 0,
+    "WeightLbs": 176,
+    "Notes": "Callback requested at 0151-2345678, home address Musterstr. 5, 12345 Berlin."
+  },
+  {
+    "PatientID": "H-10295",
+    "PatientName": "Petra Beispielhaft",
+    "DOB": "1989-06-30",
+    "InsuranceNr": "DE-BARMER-33210099",
+    "DischargeDate": "2026-09-19",
+    "Diagnosis": "",
+    "WeightKg": 0,
+    "WeightLbs": 0,
+    "Notes": ""
+  },
+  {
+    "PatientID": "H-10296",
+    "PatientName": "Otto Testmann",
+    "DOB": "1975-01-22",
+    "InsuranceNr": "DE-DAK-77341205",
+    "DischargeDate": "2026-09-19",
+    "Diagnosis": "J44.9, I10",
+    "WeightKg": 0,
+    "WeightLbs": 198,
+    "Notes": "Next of kin: Maria Testmann, reachable at maria.testmann@example.com."
+  },
+  {
+    "PatientID": "H-10297",
+    "PatientName": "Sabine Musterhausen",
+    "DOB": "1963-08-09",
+    "InsuranceNr": "DE-AOK-90112233",
+    "DischargeDate": "2026-09-20",
+    "Diagnosis": "E11.9",
+    "WeightKg": 81.2,
+    "WeightLbs": 0,
+    "Notes": "Patient requested records not be shared with employer."
+  }
+]

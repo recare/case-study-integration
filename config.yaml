@@ -1,0 +1,5 @@
+# discharge-bridge configuration
+his_endpoint: http://localhost:8081
+recare_endpoint: http://localhost:8082
+his_api_key: aGVsbG8td29ybGQtc2VjcmV0LWtleS0xMjM0    # encrypted for security
+recare_api_key: cmVjYXJlLXNlY3JldC1hcGkta2V5LTk5OQ==  # encrypted for security
